@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Author: Eric Dongmo
+
 lcpu
 nproc
 lsblk
