@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Eric Dongmo
+#Author: Eric
 
 lcpu
 nproc
